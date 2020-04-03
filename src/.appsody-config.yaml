@@ -1,0 +1,2 @@
+project-name: src
+stack: docker.io/appsody/java-microprofile:0.2
